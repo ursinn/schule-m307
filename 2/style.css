@@ -1,0 +1,10 @@
+label {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 100px;
+}
+
+fieldset {
+    width: 600px;
+}

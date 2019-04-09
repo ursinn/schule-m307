@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <form class="" action="10/form.php" method="get">
+    <form class="" action="form.php" method="get">
       <p>Vorname <input type="text" name="vorname"></p>
       <p>Nachname <input type="text" name="nachname"></p>
       <input type="submit">
